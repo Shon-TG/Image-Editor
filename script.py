@@ -19,10 +19,10 @@ You must join our channel in order to use me...</b>"""
 © @NexonHEX"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
-⭕️ <b>Language :</b> <code>Python3</code>
+⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️ <b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
+⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️ <b>Creator :</b> 👉 <a href='https://telegram.me/Hexrider'>Hex ridder</a>"""
+⭕️<b>Creator :</b> 👉 <a href='https://telegram.me/Hexrider'>Hex ridder</a>"""
 
-⭕ <b>Souce Code :</b> 🔐"""
+⭕<b>Souce Code :</b> 🔐"""
