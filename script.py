@@ -25,4 +25,4 @@ You must join our channel in order to use me...</b>"""
 
 ⭕️<b>Creator :</b> 👉 <a href='https://telegram.me/Hexrider'>Hex ridder</a>"""
 
-⭕<b>Souce Code :</b>🔐"""
+⭕<b>Source Code :</b>🔐"""
