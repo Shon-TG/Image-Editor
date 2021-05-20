@@ -23,6 +23,6 @@ You must join our channel in order to use me...</b>"""
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Creator :</b> 👉 <a href='https://telegram.me/Hexrider'>Hex ridder</a>"""
+⭕️<b>Creator :</b> 👉 <a href='https://telegram.me/Hexrider'>Hex ridder</a>
 
-⭕<b>Support : @NexonSupport</b>"""
+⭕<b>Source Code :</b> 🔐"""
