@@ -18,8 +18,8 @@ async def start(client: Client, message: Message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕ Nexon Project's ⭕",
-                            url="https://telegram.me/NexonHex",
+                            "Join CoderzHEX ❗",
+                            url="https://telegram.me/CoderZHEX",
                         )
                     ],
                 ]
@@ -44,8 +44,8 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Support",
-                            url="https://telegram.me/Nexonsupport",
+                            "Join CoderzHEX ❗",
+                            url="https://telegram.me/CoderzHEX",
                         )
                     ],
                 ]
@@ -70,8 +70,8 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Support",
-                            url="https://telegram.me/NexonSupport",
+                            "Join CoderzHEX ❗",
+                            url="https://telegram.me/CoderzHEX",
                         )
                     ],
                 ]
