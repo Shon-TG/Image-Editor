@@ -106,12 +106,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Help", callback_data="help_data"),
-                    InlineKeyboardButton("About", callback_data="about_data"),
+                    InlineKeyboardButton("HELP", callback_data="help_data"),
+                    InlineKeyboardButton("ABOUT", callback_data="about_data"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "⭕ Nexon Project's ⭕", url="https://t.me/NexonHex"
+                        "Join CoderzHEX ❗", url="https://t.me/CoderzHEX"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Support", url="https://telegram.me/Nexonsupport"
+                        "CoderzHEX ❗", url="https://telegram.me/CoderzHEX"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Support", url="https://telegram.me/nexonsupport"
+                        "Join CoderzHEX ❗", url="https://telegram.me/CoderzHEX"
                     )
                 ],
             ]
