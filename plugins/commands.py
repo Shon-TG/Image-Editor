@@ -18,7 +18,7 @@ async def start(client: Client, message: Message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Join CoderzHEX ❗",
+                            "⭕ JOIN OUR CHANNEL ⭕",
                             url="https://telegram.me/CoderZHEX",
                         )
                     ],
@@ -44,7 +44,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Join CoderzHEX ❗",
+                            "⭕ JOIN OUR CHANNEL ⭕",
                             url="https://telegram.me/CoderzHEX",
                         )
                     ],
@@ -70,7 +70,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Join CoderzHEX ❗",
+                            "⭕ JOIN OUR CHANNEL ⭕",
                             url="https://telegram.me/CoderzHEX",
                         )
                     ],
