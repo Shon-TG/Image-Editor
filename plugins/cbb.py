@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Join CoderzHEX ❗", url="https://t.me/CoderzHEX"
+                        "⭕ JOIN OUR CHANNEL ⭕", url="https://t.me/CoderzHEX"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "CoderzHEX ❗", url="https://telegram.me/CoderzHEX"
+                        "⭕ JOIN OUR CHANNEL ⭕", url="https://telegram.me/CoderzHEX"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Join CoderzHEX ❗", url="https://telegram.me/CoderzHEX"
+                        "⭕ JOIN OUR CHANNEL ⭕", url="https://telegram.me/CoderzHEX"
                     )
                 ],
             ]
